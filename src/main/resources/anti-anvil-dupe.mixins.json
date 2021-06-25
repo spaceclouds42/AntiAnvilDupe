@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "us.spaceclouds42.anti.anvil.dupe.mixin",
+  "compatibilityLevel": "JAVA_16",
+
+  "mixins": [
+    "AnvilScreenHandlerMixin"
+  ],
+
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
